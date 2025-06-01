@@ -19,3 +19,4 @@ Events: Adding interactivity through event listeners (e.g., onclick, onchange).
 ES6 Features: Modern syntax like template literals, destructuring, classes, and modules.
 
 JavaScript is essential for front-end development and can also be used on the server side with environments like Node.js.
+![JavaScript-Symbol](https://github.com/user-attachments/assets/22759712-cbd8-4bfa-9807-87c61906db3d)
